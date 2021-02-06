@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Ghost In The Shell](https://github.com/aeolian-aurelian/markdown-portfolio/blob/img_upload_01/ghostshell_01.jpg)
